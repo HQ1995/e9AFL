@@ -1,0 +1,6 @@
+[submodule "e9patch-github"]
+	path = e9patch-github
+	url = https://github.com/GJDuck/e9patch.git
+[submodule "AFL"]
+	path = AFL
+	url = https://github.com/google/AFL.git
